@@ -1,0 +1,103 @@
+!________________________________________________________________________________________________!
+! JGS-OBSCURED-LINKS-ON-SITES-THAT-TRICK-YOU-INTO-CLICKING-COZ-THEY-LOOK-LIKE-THERE-FROM-WINDOWS !
+!================================================================================================!
+
+getplaynsearch3.com
+speedwinpcs.com
+lp.speedwinpcs.com
+click-on-this-now.online
+stream2.estream.to
+n10goog.xyz
+install.stream-all.com
+www2.estream.xyz
+dns-source.com
+movie.getplaynsearch3.com
+browser-tools.systems
+
+!_______________________________________________________________________________________________________________________________________________________!
+!! LINKS TO MULTI ADDS - REMOBVING THESES MEANS LESS ACTUALL AD SITES ARE NEEDED TO BE ADDED REDUCING CLUTTER AND TIME READING LIST SPEEDING UP SYSTEM !!
+!=======================================================================================================================================================!
+
+c11ff582fa2fd7dc.com
+www.nextlnk5.com
+nextlnk5.com
+dnckawxatc.com
+
+!=======================================================================================================================================================!
+
+!==========================================================================================================================================!
+! SITES I VIEW THAT IVE TOOK OFF MYSELF, ANOYING OR BAITING STUFF I.E STREAMING SITES WITH FAKE LINKS THEN ASKING FOR SIGN UPS C-CARDS-ETC !
+!==========================================================================================================================================!
+!______________________!
+! www1.watch-series.io !
+!======================!
+
+www1.watch-series.io##.notify-foot
+
+!======================!
+
+!______________!
+! topinweb.com !
+!==============!
+
+topinweb.com##tr:nth-of-type(2) > td > table > tbody > tr
+
+!==============!
+
+!_____________________!
+!! www0.123movies.ag !!
+!=====================!
+
+www0.123movies.ag##center
+
+!=====================!
+
+!________________!
+! movieshd10.com !
+!================!
+
+movieshd10.com###modal-watch
+movieshd10.com##.in.fade.modal-backdrop
+
+!================!
+
+!___________________!
+! download.cnet.com !
+!===================!
+
+download.cnet.com###-mrckbzcor-zsorsfpcofr-or-pchhca
+download.cnet.com###-m*_obbsf
+download.cnet.com##.rbFooterCopy.footUpper
+download.cnet.com###-mrckbzcor-zsorsfpcofr-or-hcd
+download.cnet.com##.footLower > .logo
+
+!===================!
+
+!__________________________!
+! putlockerswatchfree.site !
+!==========================!
+
+||putlockerswatchfree.site/uploads/downlooo.jpg$image
+||putlockerswatchfree.site/uploads/Screenshot.jpg$image
+putlockerswatchfree.site##.watchbtncustom
+
+!==========================!
+
+!____________________!
+! watchputlocker.win !
+!====================!
+
+watchputlocker.win##table:nth-of-type(1)
+watchputlocker.win##.myhov > li:nth-of-type(2)
+||watchputlocker.win/img/Watch-Now-Button.png$image
+watchputlocker.win##.single-image > div > center
+
+!====================!
+
+!_____________!
+! openloed.co !
+!=============!
+
+openloed.co##.yiwp__window
+
+!=============!
